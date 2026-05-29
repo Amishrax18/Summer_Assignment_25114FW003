@@ -9,5 +9,6 @@ public class sumFirstNNaturalNumbers{
         for (int i = 1; i <= n; i++) sumLoop += i;
         System.out.println("Sum (Loop):    " + sumLoop);
         sc.close();
+
     }
 }
